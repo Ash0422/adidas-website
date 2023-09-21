@@ -26,9 +26,9 @@ export const shoes = [
 
 // change statistics here to match Adidas
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '2k+', label: 'Brands' },
+    { value: '700+', label: 'Shops' },
+    { value: '500k+', label: 'Customers' },
 ];
 
 // change products here to match Adidas
