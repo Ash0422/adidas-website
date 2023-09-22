@@ -23,7 +23,7 @@ The Adidas website redesign aims to provide an immersive and user-friendly exper
 
 ![image of the application 1](./src//assets/images/folderStracture.png)
 
-## Screenshot of the Adidas Website Adoption Center:
+## Screenshot of the Adidas Website :
 
 ![image of the application 3](./src//assets/images/Screenshot1.png)
 ![image of the application 3](./src//assets/images/Screenshot2.png)
