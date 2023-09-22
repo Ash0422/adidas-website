@@ -1,5 +1,5 @@
 # adidas-website
-![MasterHead](./src//assets/images/adidas-logo.png)
+![MasterHead](./src//assets/images/adidasLogo.png)
 
 ## Table of Contents
 
